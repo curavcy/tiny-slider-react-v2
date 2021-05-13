@@ -1,0 +1,1 @@
+export { default as SliderExample } from './components/example/index.js'
